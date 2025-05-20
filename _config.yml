@@ -305,6 +305,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -351,24 +352,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-# defaults:
-#   - scope:
-#       path: ""
-#       type: "posts"
-#     values:
-#       css: "/assets/css/styles.css"
-
-
-# search_enabled: true
-# search:
-#   layout: search
-#   provider: lunr
-
-
-# header:
-#   navigation:
-#     - title: "Home"
-#       url: /
-#     - title: "Search"
-#       url: /search/

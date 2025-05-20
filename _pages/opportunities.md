@@ -1,10 +1,13 @@
 ---
+layout: single
 permalink: /opportunities/
 title: "RCMBC SERVING OPPORTUNITIES"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 last_modified_at: 2025-05-07T11:59:26-08:00
 toc: false
 author_profile: false
+classes: wide
+search: true
 ---
 
 
@@ -172,13 +175,3 @@ author_profile: false
     <td><span class="color-green">Sun 9:30-10:45</span></td>
   </tr>
 </table>
-
-
-## Description: color 
-<p class="color-red">.color-red</p>
-<p class="color-blue">.color-blue</p>
-<p class="color-green">.color-green</p>
-<p class="color-orange">.color-orange</p>
-<p class="color-purple">.color-purple</p>
-<p class="color-brown">.color-brown</p>
-<p class="color-black">.color-black</p>

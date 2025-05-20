@@ -1,12 +1,13 @@
 ---
 title:  "Read Bible -- Schudle"
+classes: wide
 last_modified_at: 2025-05-07T16:00:58-04:00
 categories: 
   - Jekyll
 tags:
   - Bible
   - Reading
-toc: true
+toc: false
 toc_label: "Getting Started"
 author_profile: false
 ---

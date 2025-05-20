@@ -32,7 +32,7 @@ main:
     url: /about/
   - title: "Giving"
     url: /giving/
-  - title: "RCHBC"
+  - title: "RCMBC"
     url: https://www.rcmbc.ca/
     target: _blank
 

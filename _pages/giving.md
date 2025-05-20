@@ -1,5 +1,6 @@
 ---
 permalink: /giving/
+classes: wide
 title: "Giving"
 excerpt: "Thanks for your generous giving."
 header:
@@ -22,7 +23,7 @@ author_profile: false
     <img src="/assets/images/transform_inperson.png" alt="Image 1" style="max-width:100%;">
     <div style="text-align: center;">
       <strong>Give in Person</strong>
-      <p>There are giving boxes at the entrance of the auditorium at church on Sundays</p>
+      <p>There are giving boxes at the entrance<br>of the auditorium at church on Sundays</p>
     </div>
   </td>
   <td style="width:50%; text-align:center;">
