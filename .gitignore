@@ -1,0 +1,9 @@
+_site/
+vendor/
+.ruby-version
+.DS_Store
+*.swp
+*.log
+_config.yml.local
+*.env
+!.env.example

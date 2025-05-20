@@ -1,5 +1,5 @@
 ---
-layout: splash   # 使用 splash 布局（Minimal Mistakes 专用）
+layout: single   # 使用 splash 布局（Minimal Mistakes 专用）
 title: "Welcome to Our Church"
 excerpt: "Join us in worship, fellowship, and service."
 header:
@@ -15,24 +15,27 @@ header:
 
 <div class="home-sections">
   <div class="section">
-    <h3>Our History</h3>
-    <p>Explore the rich history of our church and our faith journey.</p>
-    <a href="/pets/tabby/" class="btn btn-primary">Learn More</a>
-    <p></p>
-    <a href="/pets/tabby/">
-        <img src="/assets/images/schedule.jpg" alt="Get History" style="width: 300px; height: auto;">
+    <h3>About</h3>
+    <a href="/about/">
+        <img src="/assets/images/schedule.jpg" alt="Get History" style="width: 500px; height: auto;">
     </a>
     
   </div>
 
   <div class="section">
     <h3>Volunteer Opportunities</h3>
-    <p>Become part of our mission by volunteering.</p>
-    <a href="/jekyll/gemified-theme-alpha44/" class="btn btn-primary">Get Opportunities</a>
     <p></p>
-    <a href="/jekyll/gemified-theme-alpha44/">
-        <img src="/assets/images/opportunities.jpg" alt="Get Opportunities" style="width: 300px; height: auto;">
+    <a href="/opportunities/">
+        <img src="/assets/images/opportunities.jpg" alt="Get Opportunities" style="width: 500px; height: auto;">
     </a>
-
   </div>
+
+  <div class="section">
+    <h3>Read Bible</h3>
+    <a href="/jekyll/read-bible/">
+        <img src="/assets/images/read_bible.jpg" alt="Get Opportunities" style="width: 500px; height: auto;">
+    </a>
+  </div>
+
+
 </div>
