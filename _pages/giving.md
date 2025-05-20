@@ -30,8 +30,7 @@ author_profile: false
     <img src="/assets/images/transform_email.png" alt="Image 2" style="max-width:100%;">
     <div style="text-align: center;">
       <strong>Give by Mail</strong>
-      <p>give@rcmbc.ca<br>1 Name; 2 No; 3 Tel; 4 Address</p>
+      <p>give@rcmbc.ca<br>Please write: 1 Name; 2 Member No; 3 Tel; 4 Address</p>
     </div>
   </td>
-
 </table>

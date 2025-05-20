@@ -11,7 +11,7 @@ header:
 
 <div class="intro">
   <h2>Discover Our Mission</h2>
-  <p>We are a welcoming community sharing faith and service.</p>
+  <p>We are a welcoming community sharing faith and service.<br><br><br> the picture and text will be upgrade soon.</p>
 </div>
 
 <table style="width:99%;">

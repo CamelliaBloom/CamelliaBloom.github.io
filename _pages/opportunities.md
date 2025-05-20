@@ -8,6 +8,8 @@ toc: false
 author_profile: false
 classes: wide
 search: true
+comments: true
+share: true
 ---
 
 
