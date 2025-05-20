@@ -1,0 +1,49 @@
+/* 定义多种颜色类 */
+.color-red { color: red; }
+.color-blue { color: blue; }
+.color-green { color: green; }
+.color-orange { color: orange; }
+.color-purple { color: purple; }
+.color-brown { color: brown; }
+.color-black { color: black; }
+
+
+/* 表格样式 */
+table.custom-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+table.custom-table th,
+table.custom-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+/* 鼠标悬停行的背景变化 */
+table.custom-table tr:hover {
+  background-color: #f1f1f1;
+  cursor: pointer;
+}
+
+/* 悬停提示信息的样式 (可选) */
+.tooltip-hover {
+  position: relative;
+}
+
+.tooltip-hover:hover::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  top: -35px;
+  left: 0;
+  background-color: #333;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 12px;
+  white-space: nowrap;
+  z-index: 10;
+  opacity: 0.9;
+}
