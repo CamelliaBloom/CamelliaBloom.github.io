@@ -28,10 +28,12 @@ main:
     url: /opportunities/
   - title: "Collection"
     url: /collection-archive/
-  - title: "About us"
+  - title: "About"
     url: /about/
   - title: "Giving"
     url: /giving/
+  - title: "Contact"
+    url: /contact/
   - title: "RCMBC"
     url: https://www.rcmbc.ca/
     target: _blank

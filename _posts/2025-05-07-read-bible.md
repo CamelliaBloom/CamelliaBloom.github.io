@@ -1,5 +1,5 @@
 ---
-title:  "Read Bible -- Schudle"
+title:  "Read Bible -- Schedule"
 classes: wide
 last_modified_at: 2025-05-07T16:00:58-04:00
 categories: 
@@ -10,6 +10,8 @@ tags:
 toc: false
 toc_label: "Getting Started"
 author_profile: false
+comments: true
+share: true
 ---
 
 

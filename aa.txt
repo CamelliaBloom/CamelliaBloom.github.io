@@ -1,45 +1,51 @@
-./_includes/category-list.html:    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].categories_label | default: "Categories:" }} </strong>
-./_site/aa.txt:./_includes/category-list.html:    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].categories_label | default: "Categories:" }} </strong>
-./_site/aa.txt:./_data/ui-text.yml:  categories_label           : "Categories:"
-./_site/aa.txt:./_data/ui-text.yml:  categories_label           : "Categories:"
-./_data/ui-text.yml:  categories_label           : "Categories:"
-./_data/ui-text.yml:  categories_label           : "Categorías:"
-./_data/ui-text.yml:  categories_label           : "Catégories :"
-./_data/ui-text.yml:  categories_label           : "Kategoriler:"
-./_data/ui-text.yml:  categories_label           : "Categorias:"
-./_data/ui-text.yml:  categories_label           : "Categorias:"
-./_data/ui-text.yml:  categories_label           : "Categorie:"
-./_data/ui-text.yml:  categories_label           : "分类:"
-./_data/ui-text.yml:  categories_label           : "分類:"
-./_data/ui-text.yml:  categories_label           : "Kategorien:"
-./_data/ui-text.yml:  categories_label           : "वर्गहरु:"
-./_data/ui-text.yml:  categories_label           : "카테고리:"
-./_data/ui-text.yml:  categories_label           : "Разделы:"
-./_data/ui-text.yml:  categories_label           : "Kategorijos:"
-./_data/ui-text.yml:  categories_label           : "Κατηγορίες:"
-./_data/ui-text.yml:  categories_label           : "Kategorier:"
-./_data/ui-text.yml:  categories_label           : "Categorieën:"
-./_data/ui-text.yml:  categories_label           : "Kategori:"
-./_data/ui-text.yml:  categories_label           : "Danh mục:"
-./_data/ui-text.yml:  categories_label           : "Kategorier:"
-./_data/ui-text.yml:  categories_label           : "Kategorie:"
-./_data/ui-text.yml:  categories_label           : "カテゴリー:"
-./_data/ui-text.yml:  categories_label           : "Kategórie:"
-./_data/ui-text.yml:  categories_label           : "Kategóriák:"
-./_data/ui-text.yml:  categories_label           : "Categorii:"
-./_data/ui-text.yml:  categories_label           : "ਵਰਗ"
-./_data/ui-text.yml:  categories_label           : "دسته بندی ها: "
-./_data/ui-text.yml:  categories_label           : "വിഭാഗങ്ങൾ:"
-./_data/ui-text.yml:  categories_label           : "หมวดหมู่:"
-./_data/ui-text.yml:  categories_label           : "श्रेणियाँ:"
-./_data/ui-text.yml:  categories_label           : "Categories:"
-./_data/ui-text.yml:  categories_label           : "Catagoírí:"
-./_data/ui-text.yml:  categories_label           : "Kategoriat:"
-./_data/ui-text.yml:  categories_label           : "အမျိုးအစားများ -"
-./_data/ui-text.yml:  categories_label           : "Kategorier:"
-./_data/ui-text.yml:  categories_label           : "קטגוריות:"
-./_data/ui-text.yml:  categories_label           : "الفئات:"
-./_data/ui-text.yml:  categories_label           : "Aina:"
-./_data/ui-text.yml:  categories_label           : "Розділи:"
-./_data/ui-text.yml:  categories_label           : "Rubriky:"
-./_data/ui-text.yml:  categories_label           : "Категории:"
+./_includes/social-share.html:  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url }}" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} LinkedIn">
+./_includes/social-share.html:    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+./_includes/author-profile.html:            <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span>
+./_site/layout/uncategorized/layout-header-video/index.html:  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/layout/uncategorized/layout-header-video/" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn">
+./_site/layout/uncategorized/layout-header-video/index.html:    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+./_site/markup-syntax-highlighting/index.html:  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/markup-syntax-highlighting/" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn">
+./_site/markup-syntax-highlighting/index.html:    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+./_site/markup-more-images/index.html:  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/markup-more-images/" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn">
+./_site/markup-more-images/index.html:    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+./_site/portfolio/ginger-gulp-identity/index.html:  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/portfolio/ginger-gulp-identity/" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn">
+./_site/portfolio/ginger-gulp-identity/index.html:    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+./_site/portfolio/foo-bar-website/index.html:  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/portfolio/foo-bar-website/" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn">
+./_site/portfolio/foo-bar-website/index.html:    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+./_site/portfolio/baz-boom-identity/index.html:  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/portfolio/baz-boom-identity/" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn">
+./_site/portfolio/baz-boom-identity/index.html:    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+./_site/portfolio/fizz-bang-identity/index.html:  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/portfolio/fizz-bang-identity/" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn">
+./_site/portfolio/fizz-bang-identity/index.html:    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+./_site/markdown/markup-title-with-markup/index.html:  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/markdown/markup-title-with-markup/" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn">
+./_site/markdown/markup-title-with-markup/index.html:    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+./_site/pets/tabby/index.html:  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/pets/tabby/" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn">
+./_site/pets/tabby/index.html:    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+./_site/pets/lhasa-apso/index.html:  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/pets/lhasa-apso/" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn">
+./_site/pets/lhasa-apso/index.html:    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+./_site/jekyll/gemified-theme-alpha/index.html:  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/jekyll/gemified-theme-alpha/" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn">
+./_site/jekyll/gemified-theme-alpha/index.html:    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+./_site/jekyll/post-exclude-search33/index.html:  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/jekyll/post-exclude-search33/" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn">
+./_site/jekyll/post-exclude-search33/index.html:    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+./_site/jekyll/post-exclude-search22/index.html:  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/jekyll/post-exclude-search22/" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn">
+./_site/jekyll/post-exclude-search22/index.html:    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+./_site/jekyll/welcome-to-jekyll/index.html:  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/jekyll/welcome-to-jekyll/" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn">
+./_site/jekyll/welcome-to-jekyll/index.html:    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+./_site/jekyll/gemified-theme-alpha44/index.html:  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/jekyll/gemified-theme-alpha44/" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn">
+./_site/jekyll/gemified-theme-alpha44/index.html:    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+./_site/jekyll/read-bible/index.html:  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/jekyll/read-bible/" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn">
+./_site/jekyll/read-bible/index.html:    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+./_site/jekyll/gemified-theme-beta/index.html:  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/jekyll/gemified-theme-beta/" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn">
+./_site/jekyll/gemified-theme-beta/index.html:    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+./_site/recipes/peanut-butter-cookies/index.html:  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/recipes/peanut-butter-cookies/" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn">
+./_site/recipes/peanut-butter-cookies/index.html:    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+./_site/recipes/chocolate-chip-cookies/index.html:  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/recipes/chocolate-chip-cookies/" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn">
+./_site/recipes/chocolate-chip-cookies/index.html:    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+./_site/recipes/oatmeal-cookies/index.html:  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/recipes/oatmeal-cookies/" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn">
+./_site/recipes/oatmeal-cookies/index.html:    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+./_site/markup/markup-title-with-special-characters/index.html:  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/markup/markup-title-with-special-characters/" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn">
+./_site/markup/markup-title-with-special-characters/index.html:    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+./_site/markup/markup-html-tags-and-formatting/index.html:  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/markup/markup-html-tags-and-formatting/" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn">
+./_site/markup/markup-html-tags-and-formatting/index.html:    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+./_site/markup/markup-image-alignment/index.html:  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/markup/markup-image-alignment/" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn">
+./_site/markup/markup-image-alignment/index.html:    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+./_site/markup/markup-text-alignment/index.html:  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/markup/markup-text-alignment/" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn">
+./_site/markup/markup-text-alignment/index.html:    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
